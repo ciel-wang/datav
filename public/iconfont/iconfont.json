@@ -1,0 +1,16 @@
+{
+  "id": "4233071",
+  "name": "校园大屏",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36905243",
+      "name": "Icons_其他图标_已请假印戳",
+      "font_class": "Icons_kq_qj",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    }
+  ]
+}

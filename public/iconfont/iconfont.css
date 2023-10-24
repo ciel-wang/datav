@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4233071 */
+  src: url('iconfont.woff2?t=1693530437265') format('woff2'),
+       url('iconfont.woff?t=1693530437265') format('woff'),
+       url('iconfont.ttf?t=1693530437265') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Icons_kq_qj:before {
+  content: "\e6b9";
+}
+
